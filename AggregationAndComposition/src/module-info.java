@@ -1,9 +1,3 @@
-/**
- * 
- */
-/**
- * @author VIGNESH
- *
- */
 module AggregationAndComposition {
 }
+// testing MCP
